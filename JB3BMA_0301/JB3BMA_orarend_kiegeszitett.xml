@@ -1,0 +1,2395 @@
+<?xml version="1.0" ?>
+<JB3BMA_orarend>
+    <ora id="1" tipus="előadás">
+        <kurzus>Alkalmazások fejlesztése projekt labor II. THE_00573_L_3_G</kurzus>
+        <idopont>
+            <nap>péntek</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="2" tipus="előadás">
+        <kurzus>Oktatás és gamifikáció, videójáték-tanulmányok THE_00746_L_5_G</kurzus>
+        <idopont>
+            <nap>péntek</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>Református tetőtér 301-es terem</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="3" tipus="előadás">
+        <kurzus>Hálózati architektúrák és protokollok THE_00176_L_3_K</kurzus>
+        <idopont>
+            <nap>szombat</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>Hotel Furmint földszint Kabar terem</helyszin>
+        <oktato>Janics Tamás</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="4" tipus="előadás">
+        <kurzus>Webkönyvtárak THE_00751_L_3_G</kurzus>
+        <idopont>
+            <nap>szombat</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Bednarik László</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="5" tipus="előadás">
+        <kurzus>Valószínűségszámítás és statisztika THE_00566_L_5_K</kurzus>
+        <idopont>
+            <nap>vasárnap</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Földvári Attila József</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="6" tipus="előadás">
+        <kurzus>Komputergrafika és képfeldolgozás THE_00752_L_3_K</kurzus>
+        <idopont>
+            <nap>vasárnap</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Fazekas Levente Áron</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="7" tipus="előadás">
+        <kurzus>Kutatás- és tanulásmódszertan THE_00063_L_3_G</kurzus>
+        <idopont>
+            <nap>hétfő</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Kökényesi Nikoletta Judit</oktato>
+        <szak>2LO</szak>
+    </ora>
+
+
+    <ora id="8" tipus="előadás">
+        <kurzus>Valószínűségszámítás és statisztika THE_00566_L_5_K</kurzus>
+        <idopont>
+            <nap>hétfő</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Földvári Attila József</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="9" tipus="előadás">
+        <kurzus>Komputergrafika és képfeldolgozás THE_00752_L_3_K</kurzus>
+        <idopont>
+            <nap>kedd</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Fazekas Levente Áron</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="10" tipus="előadás">
+        <kurzus>Webkönyvtárak THE_00751_L_3_G</kurzus>
+        <idopont>
+            <nap>kedd</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Bednarik László</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="11" tipus="előadás">
+        <kurzus>Oktatás és gamifikáció, videojáték-tanulmányok THE_00746_L_5_G</kurzus>
+        <idopont>
+            <nap>szerda</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="12" tipus="előadás">
+        <kurzus>Alkalmazások fejlesztése projekt labor II. THE_00573_L_3_G</kurzus>
+        <idopont>
+            <nap>szerda</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="13" tipus="előadás">
+        <kurzus>Komputergrafika és képfeldolgozás THE_00752_L_3_K</kurzus>
+        <idopont>
+            <nap>csütörtök</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Fazekas Levente Áron</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="14" tipus="előadás">
+        <kurzus>Hálózati architektúrák és protokollok THE_00176_L_3_K</kurzus>
+        <idopont>
+            <nap>csütörtök</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Janics Tamás</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="15" tipus="előadás">
+        <kurzus>Oktatás és gamifikáció, videójáték-tanulmányok THE_00746_L_5_G</kurzus>
+        <idopont>
+            <nap>péntek</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="16" tipus="előadás">
+        <kurzus>Kutatás- és tanulásmódszertan THE_00063_L_3_G</kurzus>
+        <idopont>
+            <nap>péntek</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Kökényesi Nikoletta Judit</oktato>
+        <szak>2LO</szak>
+    </ora>
+
+
+    <ora id="17" tipus="előadás">
+        <kurzus>Valószínűségszámítás és statisztika THE_00566_L_5_K</kurzus>
+        <idopont>
+            <nap>szombat</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>Hotel Furmint földszint Hárs terem</helyszin>
+        <oktato>Dr. Földvári Attila József</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="18" tipus="előadás">
+        <kurzus>Webkönyvtárak THE_00751_L_3_G</kurzus>
+        <idopont>
+            <nap>szombat</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>Hotel Furmint földszint Kabar terem</helyszin>
+        <oktato>Dr. Bednarik László</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="19" tipus="előadás">
+        <kurzus>Valószínűségszámítás és statisztika THE_00566_L_5_K</kurzus>
+        <idopont>
+            <nap>vasárnap</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Földvári Attila József</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="20" tipus="előadás">
+        <kurzus>Komputergrafika és képfeldolgozás THE_00752_L_3_K</kurzus>
+        <idopont>
+            <nap>vasárnap</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Fazekas Levente Áron</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="21" tipus="előadás">
+        <kurzus>Kutatás- és tanulásmódszertan THE_00063_L_3_G</kurzus>
+        <idopont>
+            <nap>hétfő</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Kökényesi Nikoletta Judit</oktato>
+        <szak>2LO</szak>
+    </ora>
+
+
+    <ora id="22" tipus="előadás">
+        <kurzus>Valószínűségszámítás és statisztika THE_00566_L_5_K</kurzus>
+        <idopont>
+            <nap>hétfő</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Földvári Attila József</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="23" tipus="előadás">
+        <kurzus>Komputergrafika és képfeldolgozás THE_00752_L_3_K</kurzus>
+        <idopont>
+            <nap>kedd</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Fazekas Levente Áron</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="24" tipus="előadás">
+        <kurzus>Webkönyvtárak THE_00751_L_3_G</kurzus>
+        <idopont>
+            <nap>kedd</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Bednarik László</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="25" tipus="előadás">
+        <kurzus>Oktatás és gamifikáció, videojáték-tanulmányok THE_00746_L_5_G</kurzus>
+        <idopont>
+            <nap>szerda</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="26" tipus="előadás">
+        <kurzus>Alkalmazások fejlesztése projekt labor II. THE_00573_L_3_G</kurzus>
+        <idopont>
+            <nap>szerda</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="27" tipus="előadás">
+        <kurzus>Komputergrafika és képfeldolgozás THE_00752_L_3_K</kurzus>
+        <idopont>
+            <nap>csütörtök</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Fazekas Levente Áron</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="28" tipus="előadás">
+        <kurzus>Hálózati architektúrák és protokollok THE_00176_L_3_K</kurzus>
+        <idopont>
+            <nap>csütörtök</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Janics Tamás</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="29" tipus="előadás">
+        <kurzus>Oktatás és gamifikáció, videójáték-tanulmányok THE_00746_L_5_G</kurzus>
+        <idopont>
+            <nap>péntek</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="30" tipus="előadás">
+        <kurzus>Kutatás- és tanulásmódszertan THE_00063_L_3_G</kurzus>
+        <idopont>
+            <nap>péntek</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>Borostyán földszint 18-as nagyelőadó</helyszin>
+        <oktato>Dr. Kökényesi Nikoletta Judit</oktato>
+        <szak>2LO</szak>
+    </ora>
+
+
+    <ora id="31" tipus="előadás">
+        <kurzus>Alkalmazások fejlesztése projekt labor II. THE_00573_L_3_G</kurzus>
+        <idopont>
+            <nap>szombat</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>Hotel Furmint földszint Kabar terem</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="32" tipus="előadás">
+        <kurzus>Valószínűségszámítás és statisztika THE_00566_L_5_K</kurzus>
+        <idopont>
+            <nap>szombat</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>Református földszint 4-es terem</helyszin>
+        <oktato>Dr. Földvári Attila József</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="33" tipus="előadás">
+        <kurzus>Komputergrafika és képfeldolgozás THE_00752_L_3_K</kurzus>
+        <idopont>
+            <nap>vasárnap</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Fazekas Levente Áron</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="34" tipus="előadás">
+        <kurzus>Webkönyvtárak THE_00751_L_3_G</kurzus>
+        <idopont>
+            <nap>vasárnap</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Bednarik László</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="35" tipus="előadás">
+        <kurzus>Oktatás és gamifikáció, videojáték-tanulmányok THE_00746_L_5_G</kurzus>
+        <idopont>
+            <nap>hétfő</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="36" tipus="előadás">
+        <kurzus>Alkalmazások fejlesztése projekt labor II. THE_00573_L_3_G</kurzus>
+        <idopont>
+            <nap>hétfő</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="37" tipus="előadás">
+        <kurzus>Komputergrafika és képfeldolgozás THE_00752_L_3_K</kurzus>
+        <idopont>
+            <nap>kedd</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Fazekas Levente Áron</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="38" tipus="előadás">
+        <kurzus>Hálózati architektúrák és protokollok THE_00176_L_3_K</kurzus>
+        <idopont>
+            <nap>kedd</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Janics Tamás</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="39" tipus="előadás">
+        <kurzus>Oktatás és gamifikáció, videójáték-tanulmányok THE_00746_L_5_G</kurzus>
+        <idopont>
+            <nap>szerda</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="40" tipus="előadás">
+        <kurzus>Kutatás- és tanulásmódszertan THE_00063_L_3_G</kurzus>
+        <idopont>
+            <nap>szerda</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Kökényesi Nikoletta Judit</oktato>
+        <szak>2LO</szak>
+    </ora>
+
+
+    <ora id="41" tipus="előadás">
+        <kurzus>Valószínűségszámítás és statisztika THE_00566_L_5_K</kurzus>
+        <idopont>
+            <nap>csütörtök</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Földvári Attila József</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="42" tipus="előadás">
+        <kurzus>Komputergrafika és képfeldolgozás THE_00752_L_3_K</kurzus>
+        <idopont>
+            <nap>csütörtök</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Fazekas Levente Áron</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="43" tipus="előadás">
+        <kurzus>Oktatás és gamifikáció, videójáték-tanulmányok THE_00746_L_5_G</kurzus>
+        <idopont>
+            <nap>péntek</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="44" tipus="előadás">
+        <kurzus>Kutatás- és tanulásmódszertan THE_00063_L_3_G</kurzus>
+        <idopont>
+            <nap>péntek</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Kökényesi Nikoletta Judit</oktato>
+        <szak>2LO</szak>
+    </ora>
+
+
+    <ora id="45" tipus="előadás">
+        <kurzus>Kutatás- és tanulásmódszertan THE_00063_L_3_G</kurzus>
+        <idopont>
+            <nap>szombat</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Kökényesi Nikoletta Judit</oktato>
+        <szak>2LO</szak>
+    </ora>
+
+
+    <ora id="46" tipus="előadás">
+        <kurzus>Valószínűségszámítás és statisztika THE_00566_L_5_K</kurzus>
+        <idopont>
+            <nap>szombat</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Földvári Attila József</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="47" tipus="előadás">
+        <kurzus>Komputergrafika és képfeldolgozás THE_00752_L_3_K</kurzus>
+        <idopont>
+            <nap>vasárnap</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Fazekas Levente Áron</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="48" tipus="előadás">
+        <kurzus>Webkönyvtárak THE_00751_L_3_G</kurzus>
+        <idopont>
+            <nap>vasárnap</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Bednarik László</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="49" tipus="előadás">
+        <kurzus>Oktatás és gamifikáció, videojáték-tanulmányok THE_00746_L_5_G</kurzus>
+        <idopont>
+            <nap>hétfő</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="50" tipus="előadás">
+        <kurzus>Alkalmazások fejlesztése projekt labor II. THE_00573_L_3_G</kurzus>
+        <idopont>
+            <nap>hétfő</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="51" tipus="előadás">
+        <kurzus>Komputergrafika és képfeldolgozás THE_00752_L_3_K</kurzus>
+        <idopont>
+            <nap>kedd</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Fazekas Levente Áron</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="52" tipus="előadás">
+        <kurzus>Hálózati architektúrák és protokollok THE_00176_L_3_K</kurzus>
+        <idopont>
+            <nap>kedd</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Janics Tamás</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="53" tipus="előadás">
+        <kurzus>Oktatás és gamifikáció, videójáték-tanulmányok THE_00746_L_5_G</kurzus>
+        <idopont>
+            <nap>szerda</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="54" tipus="előadás">
+        <kurzus>Kutatás- és tanulásmódszertan THE_00063_L_3_G</kurzus>
+        <idopont>
+            <nap>szerda</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Kökényesi Nikoletta Judit</oktato>
+        <szak>2LO</szak>
+    </ora>
+
+
+    <ora id="55" tipus="előadás">
+        <kurzus>Kutatás- és tanulásmódszertan THE_00063_L_3_G</kurzus>
+        <idopont>
+            <nap>csütörtök</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Kökényesi Nikoletta Judit</oktato>
+        <szak>2LO</szak>
+    </ora>
+
+
+    <ora id="56" tipus="előadás">
+        <kurzus>Valószínűségszámítás és statisztika THE_00566_L_5_K</kurzus>
+        <idopont>
+            <nap>csütörtök</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Földvári Attila József</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="57" tipus="előadás">
+        <kurzus>Komputergrafika és képfeldolgozás THE_00752_L_3_K</kurzus>
+        <idopont>
+            <nap>péntek</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Fazekas Levente Áron</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="58" tipus="előadás">
+        <kurzus>Webkönyvtárak THE_00751_L_3_G</kurzus>
+        <idopont>
+            <nap>péntek</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Bednarik László</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="59" tipus="előadás">
+        <kurzus>Oktatás és gamifikáció, videojáték-tanulmányok THE_00746_L_5_G</kurzus>
+        <idopont>
+            <nap>szombat</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="60" tipus="előadás">
+        <kurzus>Alkalmazások fejlesztése projekt labor II. THE_00573_L_3_G</kurzus>
+        <idopont>
+            <nap>szombat</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="61" tipus="előadás">
+        <kurzus>Komputergrafika és képfeldolgozás THE_00752_L_3_K</kurzus>
+        <idopont>
+            <nap>vasárnap</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Fazekas Levente Áron</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="62" tipus="előadás">
+        <kurzus>Hálózati architektúrák és protokollok THE_00176_L_3_K</kurzus>
+        <idopont>
+            <nap>vasárnap</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Janics Tamás</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="63" tipus="előadás">
+        <kurzus>Oktatás és gamifikáció, videójáték-tanulmányok THE_00746_L_5_G</kurzus>
+        <idopont>
+            <nap>hétfő</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="64" tipus="előadás">
+        <kurzus>Kutatás- és tanulásmódszertan THE_00063_L_3_G</kurzus>
+        <idopont>
+            <nap>hétfő</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Kökényesi Nikoletta Judit</oktato>
+        <szak>2LO</szak>
+    </ora>
+
+
+    <ora id="65" tipus="előadás">
+        <kurzus>Valószínűségszámítás és statisztika THE_00566_L_5_K</kurzus>
+        <idopont>
+            <nap>kedd</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Földvári Attila József</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="66" tipus="előadás">
+        <kurzus>Komputergrafika és képfeldolgozás THE_00752_L_3_K</kurzus>
+        <idopont>
+            <nap>kedd</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Fazekas Levente Áron</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="67" tipus="előadás">
+        <kurzus>Oktatás és gamifikáció, videójáték-tanulmányok THE_00746_L_5_G</kurzus>
+        <idopont>
+            <nap>szerda</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="68" tipus="előadás">
+        <kurzus>Kutatás- és tanulásmódszertan THE_00063_L_3_G</kurzus>
+        <idopont>
+            <nap>szerda</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Kökényesi Nikoletta Judit</oktato>
+        <szak>2LO</szak>
+    </ora>
+
+
+    <ora id="69" tipus="előadás">
+        <kurzus>Komputergrafika és képfeldolgozás THE_00752_L_3_K</kurzus>
+        <idopont>
+            <nap>csütörtök</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Fazekas Levente Áron</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="70" tipus="előadás">
+        <kurzus>Webkönyvtárak THE_00751_L_3_G</kurzus>
+        <idopont>
+            <nap>csütörtök</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Bednarik László</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="71" tipus="előadás">
+        <kurzus>Oktatás és gamifikáció, videójáték-tanulmányok THE_00746_L_5_G</kurzus>
+        <idopont>
+            <nap>péntek</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="72" tipus="előadás">
+        <kurzus>Kutatás- és tanulásmódszertan THE_00063_L_3_G</kurzus>
+        <idopont>
+            <nap>péntek</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Kökényesi Nikoletta Judit</oktato>
+        <szak>2LO</szak>
+    </ora>
+
+
+    <ora id="73" tipus="előadás">
+        <kurzus>Számításelmélet THE_000576_L_3_K</kurzus>
+        <idopont>
+            <nap>szombat</nap>
+            <tol>09:00</tol>
+            <ig>15:25</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Veres Laura</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="74" tipus="előadás">
+        <kurzus>Hálózati architektúrák és protokollok THE_00176_L_3_K</kurzus>
+        <idopont>
+            <nap>vasárnap</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Janics Tamás</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="75" tipus="előadás">
+        <kurzus>Webkönyvtárak THE_00751_L_3_G</kurzus>
+        <idopont>
+            <nap>vasárnap</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Bednarik László</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="76" tipus="előadás">
+        <kurzus>Valószínűségszámítás és statisztika THE_00566_L_5_K</kurzus>
+        <idopont>
+            <nap>hétfő</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Földvári Attila József</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="77" tipus="előadás">
+        <kurzus>Komputergrafika és képfeldolgozás THE_00752_L_3_K</kurzus>
+        <idopont>
+            <nap>hétfő</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Fazekas Levente Áron</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="78" tipus="előadás">
+        <kurzus>Kutatás- és tanulásmódszertan THE_00063_L_3_G</kurzus>
+        <idopont>
+            <nap>kedd</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Kökényesi Nikoletta Judit</oktato>
+        <szak>2LO</szak>
+    </ora>
+
+
+    <ora id="79" tipus="előadás">
+        <kurzus>Valószínűségszámítás és statisztika THE_00566_L_5_K</kurzus>
+        <idopont>
+            <nap>kedd</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Földvári Attila József</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="80" tipus="előadás">
+        <kurzus>Komputergrafika és képfeldolgozás THE_00752_L_3_K</kurzus>
+        <idopont>
+            <nap>szerda</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Fazekas Levente Áron</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="81" tipus="előadás">
+        <kurzus>Webkönyvtárak THE_00751_L_3_G</kurzus>
+        <idopont>
+            <nap>szerda</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Bednarik László</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="82" tipus="előadás">
+        <kurzus>Oktatás és gamifikáció, videojáték-tanulmányok THE_00746_L_5_G</kurzus>
+        <idopont>
+            <nap>csütörtök</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="83" tipus="előadás">
+        <kurzus>Alkalmazások fejlesztése projekt labor II. THE_00573_L_3_G</kurzus>
+        <idopont>
+            <nap>csütörtök</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="84" tipus="előadás">
+        <kurzus>Komputergrafika és képfeldolgozás THE_00752_L_3_K</kurzus>
+        <idopont>
+            <nap>péntek</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Fazekas Levente Áron</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="85" tipus="előadás">
+        <kurzus>Hálózati architektúrák és protokollok THE_00176_L_3_K</kurzus>
+        <idopont>
+            <nap>péntek</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Janics Tamás</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="86" tipus="előadás">
+        <kurzus>Alkalmazások fejlesztése projekt labor II. THE_00573_L_3_G</kurzus>
+        <idopont>
+            <nap>szombat</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="87" tipus="előadás">
+        <kurzus>Oktatás és gamifikáció, videojáték-tanulmányok THE_00746_L_5_G</kurzus>
+        <idopont>
+            <nap>szombat</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="88" tipus="előadás">
+        <kurzus>Hálózati architektúrák és protokollok THE_00176_L_3_K</kurzus>
+        <idopont>
+            <nap>vasárnap</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Janics Tamás</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="89" tipus="előadás">
+        <kurzus>Valószínűségszámítás és statisztika THE_00566_L_5_K</kurzus>
+        <idopont>
+            <nap>vasárnap</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Földvári Attila József</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="90" tipus="előadás">
+        <kurzus>Valószínűségszámítás és statisztika THE_00566_L_5_K</kurzus>
+        <idopont>
+            <nap>hétfő</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Földvári Attila József</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="91" tipus="előadás">
+        <kurzus>Komputergrafika és képfeldolgozás THE_00752_L_3_K</kurzus>
+        <idopont>
+            <nap>hétfő</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Fazekas Levente Áron</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="92" tipus="előadás">
+        <kurzus>Kutatás- és tanulásmódszertan THE_00063_L_3_G</kurzus>
+        <idopont>
+            <nap>kedd</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Kökényesi Nikoletta Judit</oktato>
+        <szak>2LO</szak>
+    </ora>
+
+
+    <ora id="93" tipus="előadás">
+        <kurzus>Valószínűségszámítás és statisztika THE_00566_L_5_K</kurzus>
+        <idopont>
+            <nap>kedd</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Földvári Attila József</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="94" tipus="előadás">
+        <kurzus>Komputergrafika és képfeldolgozás THE_00752_L_3_K</kurzus>
+        <idopont>
+            <nap>szerda</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Fazekas Levente Áron</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="95" tipus="előadás">
+        <kurzus>Webkönyvtárak THE_00751_L_3_G</kurzus>
+        <idopont>
+            <nap>szerda</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Bednarik László</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="96" tipus="előadás">
+        <kurzus>Oktatás és gamifikáció, videojáték-tanulmányok THE_00746_L_5_G</kurzus>
+        <idopont>
+            <nap>csütörtök</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="97" tipus="előadás">
+        <kurzus>Alkalmazások fejlesztése projekt labor II. THE_00573_L_3_G</kurzus>
+        <idopont>
+            <nap>csütörtök</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="98" tipus="előadás">
+        <kurzus>Komputergrafika és képfeldolgozás THE_00752_L_3_K</kurzus>
+        <idopont>
+            <nap>péntek</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Fazekas Levente Áron</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="99" tipus="előadás">
+        <kurzus>Hálózati architektúrák és protokollok THE_00176_L_3_K</kurzus>
+        <idopont>
+            <nap>péntek</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Janics Tamás</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="100" tipus="előadás">
+        <kurzus>Oktatás és gamifikáció, videójáték-tanulmányok THE_00746_L_5_G</kurzus>
+        <idopont>
+            <nap>szombat</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="101" tipus="előadás">
+        <kurzus>Kutatás- és tanulásmódszertan THE_00063_L_3_G</kurzus>
+        <idopont>
+            <nap>szombat</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Kökényesi Nikoletta Judit</oktato>
+        <szak>2LO</szak>
+    </ora>
+
+
+    <ora id="102" tipus="előadás">
+        <kurzus>Kutatás- és tanulásmódszertan THE_00063_L_3_G</kurzus>
+        <idopont>
+            <nap>vasárnap</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Kökényesi Nikoletta Judit</oktato>
+        <szak>2LO</szak>
+    </ora>
+
+
+    <ora id="103" tipus="előadás">
+        <kurzus>Valószínűségszámítás és statisztika THE_00566_L_5_K</kurzus>
+        <idopont>
+            <nap>vasárnap</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Földvári Attila József</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="104" tipus="előadás">
+        <kurzus>Komputergrafika és képfeldolgozás THE_00752_L_3_K</kurzus>
+        <idopont>
+            <nap>hétfő</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Fazekas Levente Áron</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="105" tipus="előadás">
+        <kurzus>Webkönyvtárak THE_00751_L_3_G</kurzus>
+        <idopont>
+            <nap>hétfő</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Bednarik László</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="106" tipus="előadás">
+        <kurzus>Oktatás és gamifikáció, videojáték-tanulmányok THE_00746_L_5_G</kurzus>
+        <idopont>
+            <nap>kedd</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="107" tipus="előadás">
+        <kurzus>Alkalmazások fejlesztése projekt labor II. THE_00573_L_3_G</kurzus>
+        <idopont>
+            <nap>kedd</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="108" tipus="előadás">
+        <kurzus>Komputergrafika és képfeldolgozás THE_00752_L_3_K</kurzus>
+        <idopont>
+            <nap>szerda</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Fazekas Levente Áron</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="109" tipus="előadás">
+        <kurzus>Hálózati architektúrák és protokollok THE_00176_L_3_K</kurzus>
+        <idopont>
+            <nap>szerda</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Janics Tamás</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="110" tipus="előadás">
+        <kurzus>Komputergrafika és képfeldolgozás THE_00752_L_3_K</kurzus>
+        <idopont>
+            <nap>csütörtök</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Fazekas Levente Áron</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="111" tipus="előadás">
+        <kurzus>Webkönyvtárak THE_00751_L_3_G</kurzus>
+        <idopont>
+            <nap>csütörtök</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Bednarik László</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="112" tipus="előadás">
+        <kurzus>Oktatás és gamifikáció, videojáték-tanulmányok THE_00746_L_5_G</kurzus>
+        <idopont>
+            <nap>péntek</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="113" tipus="előadás">
+        <kurzus>Alkalmazások fejlesztése projekt labor II. THE_00573_L_3_G</kurzus>
+        <idopont>
+            <nap>péntek</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="114" tipus="előadás">
+        <kurzus>Komputergrafika és képfeldolgozás THE_00752_L_3_K</kurzus>
+        <idopont>
+            <nap>szombat</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Fazekas Levente Áron</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="115" tipus="előadás">
+        <kurzus>Hálózati architektúrák és protokollok THE_00176_L_3_K</kurzus>
+        <idopont>
+            <nap>szombat</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Janics Tamás</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="116" tipus="előadás">
+        <kurzus>Oktatás és gamifikáció, videójáték-tanulmányok THE_00746_L_5_G</kurzus>
+        <idopont>
+            <nap>vasárnap</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="117" tipus="előadás">
+        <kurzus>Kutatás- és tanulásmódszertan THE_00063_L_3_G</kurzus>
+        <idopont>
+            <nap>vasárnap</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Kökényesi Nikoletta Judit</oktato>
+        <szak>2LO</szak>
+    </ora>
+
+
+    <ora id="118" tipus="előadás">
+        <kurzus>Kutatás- és tanulásmódszertan THE_00063_L_3_G</kurzus>
+        <idopont>
+            <nap>hétfő</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Kökényesi Nikoletta Judit</oktato>
+        <szak>2LO</szak>
+    </ora>
+
+
+    <ora id="119" tipus="előadás">
+        <kurzus>Valószínűségszámítás és statisztika THE_00566_L_5_K</kurzus>
+        <idopont>
+            <nap>hétfő</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Földvári Attila József</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="120" tipus="előadás">
+        <kurzus>Komputergrafika és képfeldolgozás THE_00752_L_3_K</kurzus>
+        <idopont>
+            <nap>kedd</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Fazekas Levente Áron</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="121" tipus="előadás">
+        <kurzus>Webkönyvtárak THE_00751_L_3_G</kurzus>
+        <idopont>
+            <nap>kedd</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Bednarik László</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="122" tipus="előadás">
+        <kurzus>Oktatás és gamifikáció, videojáték-tanulmányok THE_00746_L_5_G</kurzus>
+        <idopont>
+            <nap>szerda</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="123" tipus="előadás">
+        <kurzus>Alkalmazások fejlesztése projekt labor II. THE_00573_L_3_G</kurzus>
+        <idopont>
+            <nap>szerda</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="124" tipus="előadás">
+        <kurzus>Komputergrafika és képfeldolgozás THE_00752_L_3_K</kurzus>
+        <idopont>
+            <nap>csütörtök</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Fazekas Levente Áron</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="125" tipus="előadás">
+        <kurzus>Hálózati architektúrák és protokollok THE_00176_L_3_K</kurzus>
+        <idopont>
+            <nap>csütörtök</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Janics Tamás</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="126" tipus="előadás">
+        <kurzus>Oktatás és gamifikáció, videójáték-tanulmányok THE_00746_L_5_G</kurzus>
+        <idopont>
+            <nap>péntek</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="127" tipus="előadás">
+        <kurzus>Webkönyvtárak THE_00751_L_3_G</kurzus>
+        <idopont>
+            <nap>péntek</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Bednarik László</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="128" tipus="előadás">
+        <kurzus>Valószínűségszámítás és statisztika THE_00566_L_5_K</kurzus>
+        <idopont>
+            <nap>szombat</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Földvári Attila József</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="129" tipus="előadás">
+        <kurzus>Hálózati architektúrák és protokollok THE_00176_L_3_K</kurzus>
+        <idopont>
+            <nap>szombat</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Janics Tamás</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="130" tipus="előadás">
+        <kurzus>Komputergrafika és képfeldolgozás THE_00752_L_3_K</kurzus>
+        <idopont>
+            <nap>vasárnap</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Fazekas Levente Áron</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="131" tipus="előadás">
+        <kurzus>Alkalmazások fejlesztése projekt labor II. THE_00573_L_3_G</kurzus>
+        <idopont>
+            <nap>vasárnap</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="132" tipus="előadás">
+        <kurzus>Oktatás és gamifikáció, videojáték-tanulmányok THE_00746_L_5_G</kurzus>
+        <idopont>
+            <nap>hétfő</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="133" tipus="előadás">
+        <kurzus>Alkalmazások fejlesztése projekt labor II. THE_00573_L_3_G</kurzus>
+        <idopont>
+            <nap>hétfő</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="134" tipus="előadás">
+        <kurzus>Komputergrafika és képfeldolgozás THE_00752_L_3_K</kurzus>
+        <idopont>
+            <nap>kedd</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Fazekas Levente Áron</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="135" tipus="előadás">
+        <kurzus>Hálózati architektúrák és protokollok THE_00176_L_3_K</kurzus>
+        <idopont>
+            <nap>kedd</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Janics Tamás</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="136" tipus="előadás">
+        <kurzus>Oktatás és gamifikáció, videójáték-tanulmányok THE_00746_L_5_G</kurzus>
+        <idopont>
+            <nap>szerda</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="137" tipus="előadás">
+        <kurzus>Kutatás- és tanulásmódszertan THE_00063_L_3_G</kurzus>
+        <idopont>
+            <nap>szerda</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Kökényesi Nikoletta Judit</oktato>
+        <szak>2LO</szak>
+    </ora>
+
+
+    <ora id="138" tipus="előadás">
+        <kurzus>Komputergrafika és képfeldolgozás THE_00752_L_3_K</kurzus>
+        <idopont>
+            <nap>csütörtök</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Fazekas Levente Áron</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="139" tipus="előadás">
+        <kurzus>Webkönyvtárak THE_00751_L_3_G</kurzus>
+        <idopont>
+            <nap>csütörtök</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Bednarik László</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="140" tipus="előadás">
+        <kurzus>Oktatás és gamifikáció, videójáték-tanulmányok THE_00746_L_5_G</kurzus>
+        <idopont>
+            <nap>péntek</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="141" tipus="előadás">
+        <kurzus>Kutatás- és tanulásmódszertan THE_00063_L_3_G</kurzus>
+        <idopont>
+            <nap>péntek</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Kökényesi Nikoletta Judit</oktato>
+        <szak>2LO</szak>
+    </ora>
+
+
+    <ora id="142" tipus="előadás">
+        <kurzus>Kutatás- és tanulásmódszertan THE_00063_L_3_G</kurzus>
+        <idopont>
+            <nap>szombat</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Kökényesi Nikoletta Judit</oktato>
+        <szak>2LO</szak>
+    </ora>
+
+
+    <ora id="143" tipus="előadás">
+        <kurzus>Oktatás és gamifikáció, videójáték-tanulmányok THE_00746_L_5_G</kurzus>
+        <idopont>
+            <nap>szombat</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="144" tipus="előadás">
+        <kurzus>Hálózati architektúrák és protokollok THE_00176_L_3_K</kurzus>
+        <idopont>
+            <nap>vasárnap</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Janics Tamás</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="145" tipus="előadás">
+        <kurzus>Webkönyvtárak THE_00751_L_3_G</kurzus>
+        <idopont>
+            <nap>vasárnap</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Bednarik László</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="146" tipus="előadás">
+        <kurzus>Valószínűségszámítás és statisztika THE_00566_L_5_K</kurzus>
+        <idopont>
+            <nap>hétfő</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Földvári Attila József</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="147" tipus="előadás">
+        <kurzus>Komputergrafika és képfeldolgozás THE_00752_L_3_K</kurzus>
+        <idopont>
+            <nap>hétfő</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Fazekas Levente Áron</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="148" tipus="előadás">
+        <kurzus>Kutatás- és tanulásmódszertan THE_00063_L_3_G</kurzus>
+        <idopont>
+            <nap>kedd</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Kökényesi Nikoletta Judit</oktato>
+        <szak>2LO</szak>
+    </ora>
+
+
+    <ora id="149" tipus="előadás">
+        <kurzus>Valószínűségszámítás és statisztika THE_00566_L_5_K</kurzus>
+        <idopont>
+            <nap>kedd</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Földvári Attila József</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="150" tipus="előadás">
+        <kurzus>Komputergrafika és képfeldolgozás THE_00752_L_3_K</kurzus>
+        <idopont>
+            <nap>szerda</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Fazekas Levente Áron</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="151" tipus="előadás">
+        <kurzus>Webkönyvtárak THE_00751_L_3_G</kurzus>
+        <idopont>
+            <nap>szerda</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Bednarik László</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="152" tipus="előadás">
+        <kurzus>Oktatás és gamifikáció, videojáték-tanulmányok THE_00746_L_5_G</kurzus>
+        <idopont>
+            <nap>csütörtök</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="153" tipus="előadás">
+        <kurzus>Alkalmazások fejlesztése projekt labor II. THE_00573_L_3_G</kurzus>
+        <idopont>
+            <nap>csütörtök</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="154" tipus="előadás">
+        <kurzus>Valószínűségszámítás és statisztika THE_00566_L_5_K</kurzus>
+        <idopont>
+            <nap>péntek</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Földvári Attila József</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="155" tipus="előadás">
+        <kurzus>Komputergrafika és képfeldolgozás THE_00752_L_3_K</kurzus>
+        <idopont>
+            <nap>péntek</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Fazekas Levente Áron</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="156" tipus="előadás">
+        <kurzus>Valószínűségszámítás és statisztika THE_00566_L_5_K</kurzus>
+        <idopont>
+            <nap>szombat</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Földvári Attila József</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="157" tipus="előadás">
+        <kurzus>Oktatás és gamifikáció, videojáték-tanulmányok THE_00746_L_5_G</kurzus>
+        <idopont>
+            <nap>szombat</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="158" tipus="előadás">
+        <kurzus>Hálózati architektúrák és protokollok THE_00176_L_3_K</kurzus>
+        <idopont>
+            <nap>vasárnap</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Janics Tamás</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="159" tipus="előadás">
+        <kurzus>Valószínűségszámítás és statisztika THE_00566_L_5_K</kurzus>
+        <idopont>
+            <nap>vasárnap</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Földvári Attila József</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="160" tipus="előadás">
+        <kurzus>Valószínűségszámítás és statisztika THE_00566_L_5_K</kurzus>
+        <idopont>
+            <nap>hétfő</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Földvári Attila József</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="161" tipus="előadás">
+        <kurzus>Komputergrafika és képfeldolgozás THE_00752_L_3_K</kurzus>
+        <idopont>
+            <nap>hétfő</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Fazekas Levente Áron</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="162" tipus="előadás">
+        <kurzus>Kutatás- és tanulásmódszertan THE_00063_L_3_G</kurzus>
+        <idopont>
+            <nap>kedd</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Kökényesi Nikoletta Judit</oktato>
+        <szak>2LO</szak>
+    </ora>
+
+
+    <ora id="163" tipus="előadás">
+        <kurzus>Valószínűségszámítás és statisztika THE_00566_L_5_K</kurzus>
+        <idopont>
+            <nap>kedd</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Földvári Attila József</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="164" tipus="előadás">
+        <kurzus>Komputergrafika és képfeldolgozás THE_00752_L_3_K</kurzus>
+        <idopont>
+            <nap>szerda</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Fazekas Levente Áron</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="165" tipus="előadás">
+        <kurzus>Webkönyvtárak THE_00751_L_3_G</kurzus>
+        <idopont>
+            <nap>szerda</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Bednarik László</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="166" tipus="előadás">
+        <kurzus>Oktatás és gamifikáció, videojáték-tanulmányok THE_00746_L_5_G</kurzus>
+        <idopont>
+            <nap>csütörtök</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="167" tipus="előadás">
+        <kurzus>Alkalmazások fejlesztése projekt labor II. THE_00573_L_3_G</kurzus>
+        <idopont>
+            <nap>csütörtök</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="168" tipus="előadás">
+        <kurzus>Komputergrafika és képfeldolgozás THE_00752_L_3_K</kurzus>
+        <idopont>
+            <nap>péntek</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Fazekas Levente Áron</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="169" tipus="előadás">
+        <kurzus>Oktatás és gamifikáció, videojáték-tanulmányok THE_00746_L_5_G</kurzus>
+        <idopont>
+            <nap>péntek</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="170" tipus="előadás">
+        <kurzus>Hálózati architektúrák és protokollok THE_00176_L_3_K</kurzus>
+        <idopont>
+            <nap>szombat</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Janics Tamás</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="171" tipus="előadás">
+        <kurzus>Kutatás- és tanulásmódszertan THE_00063_L_3_G</kurzus>
+        <idopont>
+            <nap>szombat</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Kökényesi Nikoletta Judit</oktato>
+        <szak>2LO</szak>
+    </ora>
+
+
+    <ora id="172" tipus="előadás">
+        <kurzus>Kutatás- és tanulásmódszertan THE_00063_L_3_G</kurzus>
+        <idopont>
+            <nap>vasárnap</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Kökényesi Nikoletta Judit</oktato>
+        <szak>2LO</szak>
+    </ora>
+
+
+    <ora id="173" tipus="előadás">
+        <kurzus>Valószínűségszámítás és statisztika THE_00566_L_5_K</kurzus>
+        <idopont>
+            <nap>vasárnap</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Földvári Attila József</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="174" tipus="előadás">
+        <kurzus>Komputergrafika és képfeldolgozás THE_00752_L_3_K</kurzus>
+        <idopont>
+            <nap>hétfő</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Fazekas Levente Áron</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="175" tipus="előadás">
+        <kurzus>Webkönyvtárak THE_00751_L_3_G</kurzus>
+        <idopont>
+            <nap>hétfő</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Bednarik László</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="176" tipus="előadás">
+        <kurzus>Oktatás és gamifikáció, videojáték-tanulmányok THE_00746_L_5_G</kurzus>
+        <idopont>
+            <nap>kedd</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="177" tipus="előadás">
+        <kurzus>Alkalmazások fejlesztése projekt labor II. THE_00573_L_3_G</kurzus>
+        <idopont>
+            <nap>kedd</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="178" tipus="előadás">
+        <kurzus>Komputergrafika és képfeldolgozás THE_00752_L_3_K</kurzus>
+        <idopont>
+            <nap>szerda</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Fazekas Levente Áron</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="179" tipus="előadás">
+        <kurzus>Hálózati architektúrák és protokollok THE_00176_L_3_K</kurzus>
+        <idopont>
+            <nap>szerda</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Janics Tamás</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="180" tipus="előadás">
+        <kurzus>Komputergrafika és képfeldolgozás THE_00752_L_3_K</kurzus>
+        <idopont>
+            <nap>csütörtök</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Fazekas Levente Áron</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="181" tipus="előadás">
+        <kurzus>Webkönyvtárak THE_00751_L_3_G</kurzus>
+        <idopont>
+            <nap>csütörtök</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Bednarik László</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="182" tipus="előadás">
+        <kurzus>Oktatás és gamifikáció, videojáték-tanulmányok THE_00746_L_5_G</kurzus>
+        <idopont>
+            <nap>péntek</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="183" tipus="előadás">
+        <kurzus>Alkalmazások fejlesztése projekt labor II. THE_00573_L_3_G</kurzus>
+        <idopont>
+            <nap>péntek</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+    <ora id="184" tipus="előadás">
+        <kurzus>Számításelmélet THE_000576_L_3_K</kurzus>
+        <idopont>
+            <nap>szombat</nap>
+            <tol>09:00</tol>
+            <ig>10:25</ig>
+        </idopont>
+        <helyszin>A helyszín nincs megadva</helyszin>
+        <oktato>Dr. Veres Laura</oktato>
+        <szak>2LPTI</szak>
+    </ora>
+
+
+</JB3BMA_orarend>
